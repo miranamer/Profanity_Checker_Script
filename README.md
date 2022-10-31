@@ -10,5 +10,13 @@ Simple Profanity Checking Script
   <li>ID in this example would be: dQw4w9WgXcQ </li>
   <li>Enter ID into function to return no of swears and timestamps</li>
 
+</ul>
+
+<h2>Future Plans:</h2>
+
+<ul>
+
+  <li>Turn script into chrome extension</li>
+  <li>Allow extension to automatically skip over timestamps involving profanity</li>
 
 </ul>
