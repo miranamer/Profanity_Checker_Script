@@ -8,7 +8,7 @@ Simple Profanity Checking Script - Was created to be used by my form tutor in ye
   <li>Find YouTube Video To Check Against</li>
   <li>Copy Video ID (Example URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ) In this case the ID is the bit after 'v=' </li>
   <li>ID in this example would be: dQw4w9WgXcQ </li>
-  <li>Enter ID into function to return no of swears and timestamps</li>
+  <li>Enter ID into function to return no. of swears and timestamps</li>
 
 </ul>
 
