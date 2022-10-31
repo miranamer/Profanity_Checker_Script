@@ -1,4 +1,4 @@
-# Profanity_Checker_Script
+# Profanity Checker Script
 Simple Profanity Checking Script
 
 <h2>How It Works:</h2>
