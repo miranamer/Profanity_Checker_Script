@@ -1,5 +1,5 @@
 # Profanity Checker Script
-Simple Profanity Checking Script
+Simple Profanity Checking Script - Was created to be used by my form tutor in year 12 to screen videos for profanity before viewing in class
 
 <h2>How It Works:</h2>
 
